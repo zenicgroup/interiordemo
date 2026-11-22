@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Spaces",
+  "description": "International luxury interior design and architecture studio shaping residential, commercial, and architectural spaces that last.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
